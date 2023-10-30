@@ -5,14 +5,14 @@
 
 # Pros and Cons of TDD
 
-Pros:
+PROS:
 
 More modular code: TDD leads to more modular code that is easier to maintain and, by writing tests before code, programmers can more easily understand what each module's role is on its own, as well as inside the project as a whole.
 
 Less Debugging: TDD, as a more automatic way to debug code, leads to less time spent debugging code, and, overall, to less defects later in a project's development
 
 
-Cons:
+CONS:
 
 
 Maintenence overhead: TDD introduces more code that must be edited if code functionality changes later in development.
